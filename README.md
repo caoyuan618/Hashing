@@ -491,7 +491,8 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2022 TGRS*** Meta-Hashing for Remote Sensing Image Retrieval(`meta-hashing`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9654226)[[Code]](https://github.com/TangXu-Group/Meta-hashing)  
 ***2023 TGRS*** Deep Saliency Smoothing Hashing for Drone Image Retrieval(`DSSH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10065512)  
 ***2023 TGRS*** Encrypting Hashing Against Localization(`EHaL`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10102104)[[Code]](https://github.com/JingpengHan/EHaL)   
-***2024 TGRS*** Hashing for Retrieving Long-Tailed Distributed Remote Sensing Images(`CIAH`)[[Paper]](https://ieeexplore.ieee.org/document/10418149)
+***2024 TGRS*** Hashing for Retrieving Long-Tailed Distributed Remote Sensing Images(`CIAH`)[[Paper]](https://ieeexplore.ieee.org/document/10418149)   
+***2025 TGRS*** Cross-Modal Hashing With Feature Semi-Interaction and Semantic Ranking for Remote Sensing Ship Image Retrieval(`FSISR`)[[Paper]](https://github.com/YubinYuan/TLSH-MOT)  
 ### 😄Cross-Modal  
 * #### Deep-Unsupervised  
 ***2022 ICASSP*** Deep Unsupervised Contrastive Hashing for Large-Scale Cross-Modal Text-Image Retrieval in Remote Sensing(`DUCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9746251)[[Code1]](https://github.com/smallsmallflypigtang/Deep-Hash-learning-for-Remote-Sensing-Image-Retrieval) [[Code2]](https://git.tu-berlin.de/rsim/duch)  
@@ -503,7 +504,9 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2022 TGRS*** Deep Quadruple-Based Hashing for Remote Sensing Image-Sound Retrieval(`DQH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9722869)  
 ***2022 TGRS*** Multisensor Fusion and Explicit Semantic Preserving-Based Deep Hashing for Cross-Modal Remote Sensing Image Retrieval(`MsEspH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9656147)  
 ***2023 TGRS*** Fine Aligned Discriminative Hashing for Remote Sensing Image-Audio Retrieval(`FADH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10106504)    
-***2024 TGRS*** Cross-Modal Hashing With Feature Semi-Interaction and Semantic Ranking for Remote Sensing Ship Image Retrieval(`FSISR`)[[Paper]](https://ieeexplore.ieee.org/document/10440628)[[Code]]( https://github.com/sunyuxi/FSISR)
+***2024 TGRS*** Cross-Modal Hashing With Feature Semi-Interaction and Semantic Ranking for Remote Sensing Ship Image Retrieval(`FSISR`)[[Paper]](https://ieeexplore.ieee.org/document/10440628)[[Code]]( https://github.com/sunyuxi/FSISR)  
+***2025 TGRS*** Hashing for Image Geolocalization of Street Views[[Paper]](https://ieeexplore.ieee.org/document/11153558)  
+
 ## 😍Trajectory  
 ### 😄Grid   
 ***2024 ICDE*** Learning to Hash for Trajectory Similarity Computation and Search(`Traj2Hash`)[[Paper]](https://ieeexplore.ieee.org/document/10597836)        
