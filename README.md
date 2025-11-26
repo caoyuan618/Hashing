@@ -190,6 +190,11 @@ Correlation Distillation(`CDUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stam
 Retrieval(`SEPGH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10509797)  
 ***2024 TNNLS*** State Abstraction via Deep Supervised Hash Learning(`DSH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10723098)  
 ***2024 TKDE*** Look Into Gradients: Learning Compact Hash Codes for Out-of-Distribution Retrieval(`LOG`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10591352)  
+***2025 TBD*** A Privacy-Preserving Large-Scale Image Retrieval Framework With Vision GNN Hashing(`VIGH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10767424)  
+***2025 TBD*** Deep Global Distance Estimation Hashing for Image Retrieval(`DEH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10982178)  
+***2025 TBD*** SRGTNet: Subregion-Guided Transformer Hash Network for Fine-Grained Image Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10854876)  
+
+
 
 ### 😄Cross-Modal  
 * #### Traditional-Unsupervised  
@@ -270,6 +275,8 @@ Retrieval(`SEPGH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/105097
 ***2024 TCSVT*** Cross-Domain Transfer Hashing for Efficient Cross-modal Retrieval(`CDTH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10463060)[[Code]](https://github.com/WangBowen7/CDTH)  
 ***2024 TBD*** Scalable Unsupervised Hashing via Exploiting Robust Cross-Modal Consistency(`SUH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10382678)  
 ***2024 IJCV*** Hugs Bring Double Benefits: Unsupervised Cross-Modal Hashing with Multi-granularity Aligned Transformers(`HuggingHash`)[[Paper]](https://link.springer.com/content/pdf/10.1007/s11263-024-02009-7.pdf)  
+***2025 TCSVT*** Deep Learning to Hash With Application to Cross-View Nearest Neighbor Search[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10119236)  
+***2025 TCSVT*** PFedLAH: Personalized Federated Learning With Lookahead for Adaptive Cross-Modal Hashing(`PFedLAH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10924221)  
 
 * #### Deep-Supervised  
 ***2017 CVPR*** Deep Cross-Modal Hashing(`DCMH`)[[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Jiang_Deep_Cross-Modal_Hashing_CVPR_2017_paper.pdf)[[Code1]](https://github.com/jiangqy/DCMH-CVPR2017)[[Code2]](https://github.com/WendellGul/DCMH)[[Code3]](https://github.com/WangGodder/deep-cross-modal-hashing)[[Code4]](https://github.com/jiangqy/DCMH-CVPR2017/tree/master/DCMH_matlab/DCMH_matlab)[[Code5]](https://github.com/BMC-SDNU/Cross-Modal-Hashing-Retrieval)  
@@ -374,6 +381,11 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 TKDE*** Deep Hierarchy-Aware Proxy Hashing With Self-Paced Learning for Cross-Modal Retrieval(`DHaPH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10530441/)  
 ***2024 TMM*** Two-Step Discrete Hashing for Cross-Modal Retrieval(`TSDH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10487033/)[[Code]](https://github.com/kalenforn/clip-based-cross-modal-hash)  
 ***2024 AAAI*** Dual Self-Paced Cross-Modal Hashing(`DSCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29441)    
+***2025 TBD*** Deep Cross-Modal Hashing With RankingLearning for Noisy Labels(`DHRL`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10587102)  
+***2025 TCSVT*** Bi-Direction Label-Guided Semantic Enhancement for Cross-Modal Hashing(`BiLGSEH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10813461)[[Code]](https://github.com/yileicc/BiLGSEH)  
+***2025 TCSVT*** Deep Discriminative Boundary Hashing for Cross-Modal Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11003934)[[Code]](https://github.com/QinLab-WFU/DDBH)  
+***2025 TCSVT*** Dual Prototypes-Based Personalized Federated Adversarial Cross-Modal Hashing(`DP-FeAd`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11078306)  
+***2025 TCSVT*** Generative Augmentation Hashing for Few-shot Cross-Modal Retrieva(`GAH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11079701)[[Code]](https://github.com/xiaolaohuuu/GAH)  
 
 
 
@@ -390,6 +402,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2021 MM*** Multi-label Pattern Image Retrieval via Attention Mechanism Driven Graph Convolutional Network(`GCN-AMD`)[[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475695)   
 ***2021 MM*** Two-pronged Strategy: Lightweight Augmented Graph Network Hashing for Scalable Image Retrieval(`LAGNH`)[[Paper]](https://arxiv.org/pdf/2108.03914.pdf)[[Code]](https://github.com/christinecui/LAGNH)  
 ***2023 PR*** Deep collaborative graph hashing for discriminative image retrieval(`DCGH`)[[Paper]](https://pdf.sciencedirectassets.com/272206/1-s2.0-S0031320323X0003X/1-s2.0-S0031320323001620/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHEaCXVzLWVhc3QtMSJGMEQCIGDsIoiCWFWeRzOuy7e2uTQRPhwB9jipyne2EeXwwlzXAiAYa0IG8KzU5mPaUw%2FwXk3KJw8ue7X4sbqCb3dJGHKJ%2FCqzBQgqEAUaDDA1OTAwMzU0Njg2NSIM18WfjN1FCbfbGpTzKpAFZk7rLgci%2FL0GKc4ePfmzO1uttBqtkpjHkcS9ELwuMvJ5yPzlhrYJ7AgRKUfwAxNjars6kxVj5Jt%2Fqssujn0liiVbbiAHUgjBpmKINrwJixPFYrbyByPt0E%2FqeV6CcDMy5ZO%2F%2FsmcgcKGQLAyM1nwLRlQwIDZLqbWzpNJhu15Qn%2Fo%2B14X2cyG%2BcIQQl0F9dbq0vFNRa5kTc3CeotrMHh3coDQgpxpFm7B%2BEGeHTcgMXY8jOg%2B4TJXFJMdBKi16HPDqbFrr1ORSvUCusfDj%2BfwN9D%2BrydoytTFAsfwinYnBOMSzCPyFRn3IXL87SRzrerM%2BmS9XM1geuNUXQVVEHHIZ%2FDxnm%2F7ExPpmtteulDG7CnUY5Xg%2BrLqzUtI2b3xuW%2BpPbYTCphwg%2B1sQwqEHdme6%2BvkA4bIdav5i1MdsUg5nCEe0rJfvv3FriwrX1XgHk%2B6Zc9Iz2%2BWhCTrd6Wq53g6JoZeZaCApao%2FMVT9Ougq2BNYmBnn4iljM7dEZiA2dCtdy5CGWQ2Njjmnfr%2BYYbtZNQ3mzGv4L95phOIf2ZpV%2Fhn2GSDBUoH501wILTRiJmzO9vu8cjojcB5T%2FrW6L4IGU8epVJLoDHLqYTiT2jPN62GmLjUaThrG4ZFloBbS5JBAbR3R%2Bf9rxc45tOuYNsoQpNFSmT1CmEmHwS3cAkjiMUhMzdVDwZZbC7lAad2XObVHdKqOdZAy1lXbwrDjzPKA47%2Bp3LQGUImFLYu%2FKJ4WhmQhGDIenropyoPqDxVyWqzTjUb%2BsU8puIUpR1vtCclibcTG6yw3XIGXOnTNVi9HoXipasZKKmaHLGJ26uYOPxbLPfV9ar2rfan%2B5uKeu9Ly%2BlsXglzNqfq3WhyDB%2B0Sbf4w3%2FDKugY6sgGxv37nK3MXkoEvzuAWaf8Zxuzq0XX7HitEIOeNaZJEKKA%2FnqLVQh%2BmH0OkLfRzHhcQ8BpjpaNCkzIhlSTbAiYiJObO%2BOg5aX6%2B%2FwTgSht3YkqfXjAez46gOymNe86Pvc4vSUOMPDTJfeJiTOkhjyz7%2Fm2gc0KDxY8pXzOcyRFLPXh%2BCu22EgJhjRGvnRdd0Yy88LvI1KMnyT478d7qvNJiwuw2CXd1IJYZMMCcJl4UjdU2&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241206T102203Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYWTM2FXIU%2F20241206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e73991d718514a9a5b5311fe419f0dd26169ebc00b99e68ab26e94c9003bb888&hash=e43da643f6120b30802c9c1e153de1de7bda8d2138d212f12b37d43ad44e64b2&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0031320323001620&tid=spdf-1d5b8c83-2811-42f0-824b-3f283b470a00&sid=57df978c5e52384a0429ada17d9bb59bb8bcgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=010b59000604590352&rr=8edb8d73ee3a84c3&cc=cn)[[Code]](https://github.com/JalinWang/DCGH)  
+***2025 TCSVT*** Incomplete Multi-Modal Weakly-Supervised Hashing With Consensus Bipartite Graph(`IMEH-CBG`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10872895)  
 ### 😄Cross-Modal  
 * #### Unsupervised
 ***2021 AAAI*** Deep Graph-neighbor Coherence Preserving Network for Unsupervised Cross-modal Hashing(`DGCPN`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16592/16399)[[Code]](https://github.com/Atmegal/DGCPN)   
@@ -563,6 +576,8 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 * #### Targeted
 ***2023 TCSVT*** Targeted Adversarial Attack against Deep Cross-modal Hashing Retrieval(`TA-DCH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10090409)[[Code]](https://github.com/tswang0116/TA-DCH)  
 ***2024 TMM*** Primary Code Guided Targeted attack against Cross-modal Hashing Retrieval(`PGTA`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10814650)  
+***2025 TCSVT*** FPAD: Fuzzy-Prototype-guided Adversarial Attack and Defense for Deep Cross-Modal Hashing(`FPAD`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11145157)[[Code]](https://github.com/yzq131/FPAD)  
+
 
 ## 🛡️Defense
 ### 😄Single-Modal 
@@ -652,6 +667,40 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2019 CVPR*** HAQ: Hardware-Aware Automated Quantization with Mixed Precision(`HAQ`)[[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_HardwareAware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf)  
 ***2020 ECCV*** Search What You Want: Barrier Panelty NAS for Mixed Precision Quantization(`BP-NAS`)[[Paper]](https://arxiv.org/pdf/2007.10026.pdf)  
 ***2020 ECCV*** Single Path One-Shot Neural Architecture Search with Uniform Sampling[[Paper]](https://arxiv.org/pdf/1904.00420.pdf)  
+* #### Binary Quantization(Non-Hashing)
+***2015 NIPS*** BinaryConnect: Training Deep Neural Networks with binary weights during propagations[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2015/file/3e15cc11f979ed25912dff5b0669f2cd-Paper.pdf)  
+***2016 ECCV*** XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks[[Paper]](https://arxiv.org/pdf/1603.05279)[[code]](https://github.com/allenai/XNOR-Net)  
+***2017 ICLR*** Loss-aware Binarization of Deep Networks[[Paper]](https://arxiv.org/pdf/1611.01600)  
+***2017 CVPR*** Deep Learning with Low Precision by Half-wave Gaussian Quantization[[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Cai_Deep_Learning_With_CVPR_2017_paper.pdf)  
+***2017 ICCV*** Performance Guaranteed Network Acceleration via High-Order Residual Quantization[[Paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Performance_Guaranteed_Network_ICCV_2017_paper.pdf)  
+***2017 ICLR*** Incremental Network Quantization: Towards Lossless Cnns With Low-precision Weights[[Paper]](https://arxiv.org/pdf/1702.03044)  
+***2018 ICML*** DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients[[Paper]](https://arxiv.org/pdf/1606.06160)[[code]](https://github.com/tensorpack/tensorpack/blob/master/examples/DoReFa-Net/README.md)  
+***2018 CVPR*** Two-Step Quantization for Low-bit Neural Networks[[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Two-Step_Quantization_for_CVPR_2018_paper.pdf)  
+***2018 ECCV*** Bi-Real Net: Enhancing the Performance of 1-bit CNNs With Improved Representational Capability and Advanced Training Algorithm[[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/zechun_liu_Bi-Real_Net_Enhancing_ECCV_2018_paper.pdf)[[code]](https://github.com/liuzechun/Bi-Real-net/blob/master/README.md)  
+***2019 CVPR*** Circulant Binary Convolutional Networks: Enhancing the Performance of 1-bit DCNNs with Circulant Back Propagation[[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Circulant_Binary_Convolutional_Networks_Enhancing_the_Performance_of_1-Bit_DCNNs_CVPR_2019_paper.pdf)  
+***2019 CVPR*** Learning Channel-wise Interactions for Binary Convolutional Neural Networks[[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Channel-Wise_Interactions_for_Binary_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)  
+***2019 ICCV*** Differentiable Soft Quantization: Bridging Full-Precision and Low-Bit Neural Networks[[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gong_Differentiable_Soft_Quantization_Bridging_Full-Precision_and_Low-Bit_Neural_Networks_ICCV_2019_paper.pdf)[[Code]](https://github.com/ricky40403/DSQ)  
+***2020 NIPS*** Rotated Binary Neural Network[[Paper]](https://papers.nips.cc/paper_files/paper/2020/file/53c5b2affa12eed84dfec9bfd83550b1-Paper.pdf)[[Code]](https://github.com/lmbxmu/RBNN)  
+***2020 AAAI*** Sparsity-Inducing Binarized Neural Networks[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6900)[[Code]](https://github.com/peiswang/SiBNN/blob/main/README.md)  
+***2020 CVPR*** Forward and Backward Information Retention for Accurate Binary Neural Networks[[Paper]](https://arxiv.org/pdf/1909.10788v4)[[Code]](https://github.com/htqin/IR-Net)  
+***2020 ECCV*** ReActNet: Towards Precise Binary Neural Network with Generalized Activation Functions[[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590137.pdf)[[Code]](https://github.com/liuzechun/ReActNet/blob/master/README.md)  
+***2020 ICLR*** DMS: Differentiable Dimension Search for Binary Neural Networks[[Paper]](https://openreview.net/pdf?id=XKeyCSUWusK)[[Code]](https://github.com/KwangHoonAn/awesome-model-quantization)  
+***2020 ICLR*** Training Binary Neural Networks with Real-to-Binary Convolutions[[Paper]](https://arxiv.org/pdf/2003.11535)[[Code]](https://github.com/brais-martinez/real2binary)  
+***2021 CVPR*** Improving Accuracy of Binary Neural Networks using Unbalanced Activation Distribution[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Improving_Accuracy_of_Binary_Neural_Networks_Using_Unbalanced_Activation_Distribution_CVPR_2021_paper.pdf)  
+***2021 CVPR*** Network Quantization with Element-wise Gradient Scaling[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Network_Quantization_With_Element-Wise_Gradient_Scaling_CVPR_2021_paper.pdf)[[Code]](https://github.com/cvlab-yonsei/EWGS/blob/main/README.md)  
+***2021 ICCV*** ReCU: Reviving the Dead Weights in Binary Neural Networks[[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_ReCU_Reviving_the_Dead_Weights_in_Binary_Neural_Networks_ICCV_2021_paper.pdf)  
+***2021 ICCV*** Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks[[Paper]](https://arxiv.org/pdf/2110.09195)[[Code]](https://github.com/yikaiw/SNN)  
+***2022 CVPR*** Network Binarization via Contrastive Learning[[Paper]](https://arxiv.org/pdf/2207.02970)[[Code]](https://github.com/42Shawn/CMIM)  
+***2022 ICASSP*** Dynamic Binary Neural Network by Learning Channel-Wise Thresholds[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747328)  
+***2022 TCSVT*** RB-Net: Training Highly Accurate and Efficient Binary Neural Networks with Reshaped Point-wise Convolution and Balanced Activation[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9756000)  
+***2022 IJCV*** Distribution-Sensitive Information Retention for Accurate Binary Neural Network[[Paper]](https://arxiv.org/pdf/2109.12338)  
+***2023 ICCV*** Estimator Meets Equilibrium Perspective: A Rectified Straight Through Estimator for Binary Neural Networks Training[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Estimator_Meets_Equilibrium_Perspective_A_Rectified_Straight_Through_Estimator_for_ICCV_2023_paper.pdf)[[Code]](https://github.com/DravenALG/ReSTE)  
+***2023 ICCV*** INSTA-BNN: Binary Neural Network with INSTAnce-aware Threshold[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_INSTA-BNN_Binary_Neural_Network_with_INSTAnce-aware_Threshold_ICCV_2023_paper.pdf)  
+***2023 ICCV*** MST-compression: Compressing and Accelerating Binary Neural Networks with Minimum Spanning Tree[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Vo_MST-compression_Compressing_and_Accelerating_Binary_Neural_Networks_with_Minimum_Spanning_ICCV_2023_paper.pdf)  
+***2024 CVPR*** A&BBNN:Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.pdf)  
+***2024 CVPR***  BiPer: Binary Neural Networks using a Periodic Function[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Vargas_BiPer_Binary_Neural_Networks_using_a_Periodic_Function_CVPR_2024_paper.pdf)[[Code]](https://github.com/edmav4/BiPer)  
+
+
 
 ## 😍Prompt Learning(Non-Hashing) 
 ***2021 ICML*** Learning Transferable Visual Models From Natural Language Supervision(`CLIP`)[[Paper]](https://arxiv.org/pdf/2103.00020)[[Code]](https://github.com/OpenAI/CLIP)  
