@@ -719,7 +719,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
    
 
 ## 😍Pruning(Non-Hashing)  
-### 😄AutoML 
+### 😄Small-Model Pruning 
 ***2018 ECCV*** AMC: AutoML for Model Compression and Acceleration on Mobile Devices(`AMC`)[[Paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf)  
 ***2019 ICCV*** MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning(`MetaPruning`)[[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_MetaPruning_Meta_Learning_for_Automatic_Neural_Network_Channel_Pruning_ICCV_2019_paper.pdf)[[Code]](https://github.com/liuzechun/MetaPruning)  
 ***2020 AAAI*** AutoCompress: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates(`AutoCompress`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5924/5780)  
@@ -731,18 +731,19 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 ICCV*** Automatic Network Pruning via Hilbert-Schmidt Independence Criterion Lassounder Information Bottleneck Principle(`APIB`)[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Automatic_Network_Pruning_via_Hilbert-Schmidt_Independence_Criterion_Lasso_under_Information_ICCV_2023_paper.pdf)[[Code]](https://github.com/sunggo/APIB)  
 ***2024 CVPR*** Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch(`ATO`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Auto-Train-Once_Controller_Network_Guided_Automatic_Network_Pruning_from_Scratch_CVPR_2024_paper.pdf)[[Code]](https://github.com/xidongwu/AutoTrainOnce)  
 ***2024 Arxiv*** AutoDFP：Automatic Data-Free Pruning via Channel Similarity Reconstruction(`AutoDFP`)[[Paper]](https://arxiv.org/pdf/2403.08204?)  
-* #### LLM-pruning
+### 😄LLM-Pruning
 ***2023 ICML*** SparseGPT：Massive Language Models Can be Accurately Pruned in One-Shot(`SparseGPT`)[[Paper]](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf)[[Code]](https://github.com/IST-DASLab/sparsegpt)  
 ***2024 ICLR*** A simple and effective pruning approach for large language Models(`Wanda`)[[Paper]](https://arxiv.org/pdf/2306.11695)[[Code]](https://github.com/locuslab/wanda)  
 ***2025 CVPR*** EfficientLLaVA：Generalizable Auto-Pruning for Large Vision-language Models(`EfficientLLaVA`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_EfficientLLaVA_Generalizable_Auto-Pruning_for_Large_Vision-language_Models_CVPR_2025_paper.pdf)  
 
 
-## 😍Quantization(Non-Hashing)  
-### 😄AutoML
+## 😍Quantization  
+
+### 😄Mixed-Bit Quantization(Non-Hashing)
 ***2019 CVPR*** HAQ: Hardware-Aware Automated Quantization with Mixed Precision(`HAQ`)[[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_HardwareAware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf)  
 ***2020 ECCV*** Search What You Want: Barrier Panelty NAS for Mixed Precision Quantization(`BP-NAS`)[[Paper]](https://arxiv.org/pdf/2007.10026.pdf)  
 ***2020 ECCV*** Single Path One-Shot Neural Architecture Search with Uniform Sampling[[Paper]](https://arxiv.org/pdf/1904.00420.pdf)  
-* #### Binary Quantization(Non-Hashing)
+### 😄Binary Quantization(Non-Hashing)
 ***2015 NIPS*** BinaryConnect: Training Deep Neural Networks with binary weights during propagations[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2015/file/3e15cc11f979ed25912dff5b0669f2cd-Paper.pdf)  
 ***2016 ECCV*** XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks[[Paper]](https://arxiv.org/pdf/1603.05279)[[code]](https://github.com/allenai/XNOR-Net)  
 ***2017 ICLR*** Loss-aware Binarization of Deep Networks[[Paper]](https://arxiv.org/pdf/1611.01600)  
@@ -775,19 +776,18 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 CVPR*** A&BBNN:Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.pdf)  
 ***2024 CVPR***  BiPer: Binary Neural Networks using a Periodic Function[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Vargas_BiPer_Binary_Neural_Networks_using_a_Periodic_Function_CVPR_2024_paper.pdf)[[Code]](https://github.com/edmav4/BiPer)  
 
-
-
-## 😍Prompt Learning(Non-Hashing) 
+## 😍LLM Fine-tuning(Non-Hashing)
+### 😄Prompt Learning   
 ***2021 ICML*** Learning Transferable Visual Models From Natural Language Supervision(`CLIP`)[[Paper]](https://arxiv.org/pdf/2103.00020)[[Code]](https://github.com/OpenAI/CLIP)  
 ***2022 CVPR*** Conditional Prompt Learning for Vision-Language Models(`CoCoOp`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/9879913)[[Code]](https://github.com/KaiyangZhou/CoOp)  
 ***2022 IJCV*** Learning to Prompt for Vision-Language Models(`CoOp`)[[Paper]](https://arxiv.org/pdf/2109.01134)[[Code]](https://github.com/KaiyangZhou/CoOp)  
 ***2023 CVPR*** MaPLe: Multi-modal Prompt Learning(`MaPLe`)[[Paper]](https://arxiv.org/pdf/2210.03117)[[Code]](https://github.com/muzairkhattak/multimodal-prompt-learning)  
 ***2023 IJCV*** CLIP-Adapter: Better Vision-Language Models with Feature Adapters(`CLIP-Adapter`)[[Paper]](https://arxiv.org/pdf/2110.04544)[[Code]](https://github.com/gaopengcuhk/CLIP-Adapter)  
 ***2024 CVPR*** PromptKD: Unsupervised Prompt Distillation for Vision-Language Models(`PromptKD`)[[Paper]](https://arxiv.org/pdf/2403.02781)[[Code]](https://github.com/zhengli97/PromptKD)  
+### 😄Adapter Learning   
 
 ## 😍RAG(Non-Hashing)  
 ### 😄Single-Modal
-
 ***2020 NIPS*** Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks[[Paper]](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html)[[Code]](https://huggingface.co/facebook/rag-token-nq)  
 ***2020 ICML*** REALM: retrieval-augmented language model pre-training[[Paper]](https://dl.acm.org/doi/abs/10.5555/3524938.3525306)  
 ***2021 AAAI*** Learning Contextual Representations for Semantic Parsing with Generation-Augmented Pre-Training[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17627/17434)[[Code]](https://github.com/awslabs/gap-text2sql)    
@@ -799,7 +799,6 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 ICLR*** Self-RAG: Learning to Retrieve, Generate,and Critique through Self-Reflection[[Paper]](https://iclr.cc/virtual/2024/oral/19736)[[Code]](https://selfrag.github.io/)  
 
 ### 😄Multi-Modal
-
 * #### Image Captioning
 ***2022 CBMI*** Retrieval-Augmented Transformer for Image Captioning[[Paper]](https://dl.acm.org/doi/fullHtml/10.1145/3549555.3549585)  
 ***2022 EMNLP*** Retrieval Augmented Visual Question Answering with Outside Knowledge[[Paper]](https://aclanthology.org/2022.emnlp-main.772/)[[Code]](https://github.com/LinWeizheDragon/Retrieval-Augmented-Visual-Question-Answering)  
@@ -814,17 +813,13 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 CVPR*** MeaCap: Memory-Augmented Zero-shot Image Captioning[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zeng_MeaCap_Memory-Augmented_Zero-shot_Image_Captioning_CVPR_2024_paper.pdf)[[Code]](https://github.com/joeyz0z/MeaCap)  
 ***2024 CVPR*** EVCAP: Retrieval-Augmented Image Captioning with External Visual–Name Memory for Open-World Comprehension[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_EVCap_Retrieval-Augmented_Image_Captioning_with_External_Visual-Name_Memory_for_Open-World_CVPR_2024_paper.pdf)[[Code]](https://github.com/Jiaxuan-Li/EVCap)  
 ***2024 CVPR*** Wiki-LLaVA:Hierarchical Retrieval-Augmented Generation for Multimodal LLMs[[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/MMFM/html/Caffagni_Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs_CVPRW_2024_paper.html)  
-
 * #### RAG+Diffusion
-
 ***2023 NIPS*** Retrieval-Augmented Diffusion Models[[Paper]](https://papers.nips.cc/paper_files/paper/2022/hash/62868cc2fc1eb5cdf321d05b4b88510c-Abstract-Conference.html)[[Code]](https://github.com/CompVis/retrieval-augmented-diffusion-models)  
 ***2023 ICLR*** KNN-DIFFUSION: IMAGE GENERATION VIA LARGE-SCALE RETRIEVAL[[Paper]](https://iclr.cc/virtual/2023/poster/12206)[[Code]](https://github.com/LinWeizheDragon/Retrieval-Augmented-Visual-Question-Answering)  
 ***2023 ICLR*** Re-Imagen: Retrieval-Augmented Text-to-Image Generator[[Paper]](https://openreview.net/forum?id=XSEBx0iSjFQ)   
 ***2023 ICCV*** ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_ReMoDiffuse_Retrieval-Augmented_Motion_Diffusion_Model_ICCV_2023_paper.pdf)[[Code]](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html)  
 ***2024 ICML*** Mastering Text-to-Image Diffusion:Recaptioning, Planning,and Generating with Multimodal LLMs[[Paper]](https://openreview.net/forum?id=DgLFkAPwuZ)[[Code]](https://github.com/YangLing0818/RPG-DiffusionMaster)    
-
 * #### Knowledge-Intensive Tasks
-
 ***2024 ACL-findings*** MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning[[Paper]](https://aclanthology.org/2024.findings-acl.69/)[[Code]](https://github.com/VickiCui/MORE)  
 ***2025 ICLR*** VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents[[Paper]](https://openreview.net/forum?id=zG459X3Xge)[[Code]](https://github.com/openbmb/visrag)    
 
