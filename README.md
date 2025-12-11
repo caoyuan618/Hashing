@@ -213,7 +213,7 @@ Retrieval(`SEPGH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/105097
 ***2025 MM*** Factorized Transformer Hashing with Adaptive Routing for Large-scale Image Retrieval(`FTH`)[[Paper]](https://dl.acm.org/doi/10.1145/3746027.3755201)[[Code]](https://github.com/QinLab-WFU/FTH)  
 ***2025 MM*** MADPHash: Manipulation-Aware Deep Perceptual Hashing using Feature Consistency(`MADPHash`)[[Paper]](https://dl.acm.org/doi/10.1145/3746027.3755264)  
 ***2025 SIGIR*** Reconciling Efficiency and Effectiveness of Exercise Retreival: An Uncertainty Reduction Hashing Approach for Computerized Adaptive Testing(`HashCAT`)[[Paper]](https://dl.acm.org/doi/10.1145/3726302.3730072)[[Code]](https://github.com/sherklock/Intelligent-Education/tree/main/HashCAT-main)  
-***2025 WWW*** GraphHash: Graph Clustering Enables Parameter Efficiency in Recommender Systems(`GraphHash`)[[Paper]](https://dl.acm.org/doi/10.1145/3696410.3714910)[[Code]](https://github.com/snap-research/GraphHash)
+***2025 WWW*** GraphHash: Graph Clustering Enables Parameter Efficiency in Recommender Systems(`GraphHash`)[[Paper]](https://dl.acm.org/doi/10.1145/3696410.3714910)[[Code]](https://github.com/snap-research/GraphHash)  
 ***2025 TBD*** A Privacy-Preserving Large-Scale Image Retrieval Framework With Vision GNN Hashing(`VIGH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10767424)  
 ***2025 TBD*** Deep Global Distance Estimation Hashing for Image Retrieval(`DEH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10982178)  
 ***2025 TBD*** SRGTNet: Subregion-Guided Transformer Hash Network for Fine-Grained Image Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10854876)  
