@@ -414,7 +414,6 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2024 TMM*** Two-Step Discrete Hashing for Cross-Modal Retrieval(`TSDH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/10487033/)[[Code]](https://github.com/kalenforn/clip-based-cross-modal-hash)  
 ***2024 AAAI*** Dual Self-Paced Cross-Modal Hashing(`DSCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29441)  
 ***2025 TIP*** Cross-Modal Hashing via Diverse Instances Matching[[paper]](https://ieeexplore.ieee.org/document/10974482)
-
 ***2024 AAAI*** Dual Self-Paced Cross-Modal Hashing(`DSCMH`)[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29441)    
 ***2025 TPAMI*** Revisit Weakly Supervised Hashing With Deep Multi-Modal Foundation Models[[Paper]](https://ieeexplore.ieee.org/abstract/document/11014237)  
 ***2025 TPAMI*** Three-Stage Semisupervised Cross-Modal Hashing With Pairwise Relations Exploitation(`TS3H`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10093905)  
