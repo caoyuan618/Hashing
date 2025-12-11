@@ -703,6 +703,7 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2021 PRL*** An orthogonal hashing method for zero-shot cross-modal retrieval(CHOP)[[Paper]](https://sci-hub.yncjkj.com/https://www.sciencedirect.com/science/article/pii/S0167865521000787)    
 ***2024 TPAMI*** Content-Aware Rectified Activation for Zero-Shot Fine-Grained Image Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10404027)    
 ***2024 ArXiv*** COMAE: COMprehensive Attribute Exploration for Zero-shot Hashing[[Paper]](https://arxiv.org/pdf/2402.16424)[[Code]](https://github.com/YihangZhou0424/NN2024-COMAE)    
+
 ### 😄Cross-Modal 
 * #### Deep-Supervised
 ***2019 ICDM*** Cross-modal Zero-shot Hashing[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970685)  
