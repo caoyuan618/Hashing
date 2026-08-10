@@ -217,7 +217,11 @@ Retrieval(`SEPGH`)[[Paper]](https://ieeexplore.ieee.org/abstract/document/105097
 ***2025 TBD*** A Privacy-Preserving Large-Scale Image Retrieval Framework With Vision GNN Hashing(`VIGH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10767424)  
 ***2025 TBD*** Deep Global Distance Estimation Hashing for Image Retrieval(`DEH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10982178)  
 ***2025 TBD*** SRGTNet: Subregion-Guided Transformer Hash Network for Fine-Grained Image Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10854876)  
-
+***2026 Pattern Recognition*** Learning interpretable binary codes via semantic alignment for customized image retrieval(`IBC`)[[paper]](https://doi.org/10.1016/j.patcog.2025.112380)  
+***2026 ESWA*** Deep global-ranking hashing via average precision approximation for large-scale image retrieval(`DGrH`)[[paper]](https://www.sciencedirect.com/science/article/pii/S0957417426004707)[[code]](https://github.com/QinLab-WFU/DGrH)  
+***2026 ESWA*** Deep neighborhood-based component proxy hashing for large-scale image retrieval(`DNCPH`)[[paper]](https://www.sciencedirect.com/science/article/pii/S0957417426008377)[[code]](https://github.com/QinLab-WFU/DNCPH)  
+***2026 Signal Processing*** Deep semantic channel hashing for large-scale image retrieval(`DSCH`)[[paper]](https://www.sciencedirect.com/science/article/pii/S0923596526000822)[[code]](https://github.com/QinLab-WFU/DSCH)  
+***2026 ESWA*** Deep Attribute-aware Hashing for Zero-Shot Image Retrieval(`DA2H`)[[paper]](https://www.sciencedirect.com/science/article/pii/S0957417426014582)[[code]](https://github.com/QinLab-WFU/DAH)  
 
 
 
@@ -442,9 +446,8 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2025 TCSVT*** Deep Discriminative Boundary Hashing for Cross-Modal Retrieval[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11003934)[[Code]](https://github.com/QinLab-WFU/DDBH)  
 ***2025 TCSVT*** Dual Prototypes-Based Personalized Federated Adversarial Cross-Modal Hashing(`DP-FeAd`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11078306)  
 ***2025 TCSVT*** Generative Augmentation Hashing for Few-shot Cross-Modal Retrieva(`GAH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11079701)[[Code]](https://github.com/xiaolaohuuu/GAH)  
-***2025 MM** Deep Probabilistic Binary Embedding via Learning Reliable Uncertainty for Cross-Modal Retrieval(`DPBE`)[[paper]](https://dl.acm.org/doi/10.1145/3746027.3754811)[[code]](https://github.com/QinLab-WFU/DPBE)  
-***2025 TMM** Deep Semantic Tuplet-based Hashing by Hypergraph Modeling for Cross-modal Retrieval(`DSTH`)[[paper]](https://ieeexplore.ieee.org/document/11208593)[[code]](https://github.com/QinLab-WFU/DSTH)  
-
+***2025 MM*** Deep Probabilistic Binary Embedding via Learning Reliable Uncertainty for Cross-Modal Retrieval(`DPBE`)[[paper]](https://dl.acm.org/doi/10.1145/3746027.3754811)[[code]](https://github.com/QinLab-WFU/DPBE)  
+***2025 TMM*** Deep Semantic Tuplet-based Hashing by Hypergraph Modeling for Cross-modal Retrieval(`DSTH`)[[paper]](https://ieeexplore.ieee.org/document/11208593)[[code]](https://github.com/QinLab-WFU/DSTH)  
 
 
 ## 😍Graph  
@@ -733,10 +736,19 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 ICLR*** OTOV2: AUTOMATIC, GENERIC, USER-FRIENDLY(`OTOv2`)[[Paper]](https://arxiv.org/pdf/2303.06862)[[Code]](https://github.com/tianyic/only_train_once)  
 ***2023 ICCV*** Automatic Network Pruning via Hilbert-Schmidt Independence Criterion Lassounder Information Bottleneck Principle(`APIB`)[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Guo_Automatic_Network_Pruning_via_Hilbert-Schmidt_Independence_Criterion_Lasso_under_Information_ICCV_2023_paper.pdf)[[Code]](https://github.com/sunggo/APIB)  
 ***2024 CVPR*** Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch(`ATO`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Auto-Train-Once_Controller_Network_Guided_Automatic_Network_Pruning_from_Scratch_CVPR_2024_paper.pdf)[[Code]](https://github.com/xidongwu/AutoTrainOnce)  
-***2024 Arxiv*** AutoDFP：Automatic Data-Free Pruning via Channel Similarity Reconstruction(`AutoDFP`)[[Paper]](https://arxiv.org/pdf/2403.08204?)  
+***2024 Arxiv*** AutoDFP：Automatic Data-Free Pruning via Channel Similarity Reconstruction(`AutoDFP`)[[Paper]](https://arxiv.org/pdf/2403.08204?) 
+
 ### 😄LLM Pruning
-***2023 ICML*** SparseGPT：Massive Language Models Can be Accurately Pruned in One-Shot(`SparseGPT`)[[Paper]](https://proceedings.mlr.press/v202/frantar23a/frantar23a.pdf)[[Code]](https://github.com/IST-DASLab/sparsegpt)  
-***2024 ICLR*** A simple and effective pruning approach for large language Models(`Wanda`)[[Paper]](https://arxiv.org/pdf/2306.11695)[[Code]](https://github.com/locuslab/wanda)  
+***2023 ICML*** SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot(`SparseGPT`)[[paper]](https://proceedings.mlr.press/v202/frantar23a.html)[[code]](https://github.com/IST-DASLab/sparsegpt)  
+***2023 NeurIPS*** LLM-Pruner: On the Structural Pruning of Large Language Models(`LLM-Pruner`)[[paper]](https://papers.neurips.cc/paper_files/paper/2023/hash/44956951349095f74492a5471128a7e0-Abstract-Conference.html)[[code]](https://github.com/horseee/LLM-Pruner)  
+***2024 ICLR*** A Simple and Effective Pruning Approach for Large Language Models(`Wanda`)[[paper]](https://proceedings.iclr.cc/paper_files/paper/2024/hash/14c856c7a41297804de4c4890e846b25-Abstract-Conference.html)[[code]](https://github.com/locuslab/wanda)  
+***2024 ICLR*** SliceGPT: Compress Large Language Models by Deleting Rows and Columns(`SliceGPT`)[[paper]](https://proceedings.iclr.cc/paper_files/paper/2024/file/316648eb8b4ffb6010f531b07848c300-Paper-Conference.pdf)[[code]](https://github.com/microsoft/TransformerCompression)  
+***2024 ICLR*** Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning(`Sheared LLaMA`)[[paper]](https://proceedings.iclr.cc/paper_files/paper/2024/hash/160adf2dc118a920e7858484b92a37d8-Abstract-Conference.html)[[code]](https://github.com/princeton-nlp/LLM-Shearing)  
+***2024 ICLR*** Plug-and-Play: An Efficient Post-training Pruning Method for Large Language Models(`RIA`)[[paper]](https://proceedings.iclr.cc/paper_files/paper/2024/hash/db6ccc979860d7a233ecaf588bb23512-Abstract-Conference.html)[[code]](https://github.com/biomedical-cybernetics/Relative-importance-and-activation-pruning)  
+***2024 ICML*** Pruner-Zero: Evolving Symbolic Pruning Metric From Scratch for Large Language Models(`Pruner-Zero`)[[paper]](https://proceedings.mlr.press/v235/dong24b.html)[[code]](https://github.com/pprp/Pruner-Zero)  
+***2024 NeurIPS*** SparseLLM: Towards Global Pruning of Pre-trained Language Models(`SparseLLM`)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/522134ee1c52c7a2b929bc87cfe1781c-Abstract-Conference.html)[[code]](https://github.com/BaiTheBest/SparseLLM)  
+***2024 NeurIPS*** MaskLLM: Learnable Semi-Structured Sparsity for Large Language Models(`MaskLLM`)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0e9a05f5ce62284c91e4a33498899124-Abstract-Conference.html)[[code]](https://github.com/NVlabs/MaskLLM)  
+***2024 NeurIPS*** SlimGPT: Layer-wise Structured Pruning for Large Language Models(`SlimGPT`)[[paper]](https://papers.nips.cc/paper_files/paper/2024/hash/c1c44e46358e0fb94dc94ec495a7fb1a-Abstract-Conference.html)   
 ***2025 CVPR*** EfficientLLaVA：Generalizable Auto-Pruning for Large Vision-language Models(`EfficientLLaVA`)[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_EfficientLLaVA_Generalizable_Auto-Pruning_for_Large_Vision-language_Models_CVPR_2025_paper.pdf)  
 
 
@@ -746,6 +758,13 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2019 CVPR*** HAQ: Hardware-Aware Automated Quantization with Mixed Precision(`HAQ`)[[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_HardwareAware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf)  
 ***2020 ECCV*** Search What You Want: Barrier Panelty NAS for Mixed Precision Quantization(`BP-NAS`)[[Paper]](https://arxiv.org/pdf/2007.10026.pdf)  
 ***2020 ECCV*** Single Path One-Shot Neural Architecture Search with Uniform Sampling[[Paper]](https://arxiv.org/pdf/1904.00420.pdf)  
+***2021 AAAI*** FracBits: Mixed Precision Quantization via Fractional Bit-Widths(`FracBits`)[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17269)  
+***2021 ICML*** Differentiable Dynamic Quantization with Mixed Precision and Adaptive Resolution(`DDQ`)[[paper]](https://proceedings.mlr.press/v139/zhang21r.html)  
+***2021 ICML*** HAWQ-V3: Dyadic Neural Network Quantization(`HAWQ-V3`)[[paper]](https://proceedings.mlr.press/v139/yao21a.html)[[code]](https://github.com/Zhen-Dong/HAWQ)  
+***2021 ICLR*** BSQ: Exploring Bit-Level Sparsity for Mixed-Precision Neural Network Quantization(`BSQ`)[[paper]](https://openreview.net/forum?id=TiXl51SCNw8)[[code]](https://github.com/yanghr/BSQ)  
+***2023 AAAI*** OMPQ: Orthogonal Mixed Precision Quantization(`OMPQ`)[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26084)  
+
+
 ### 😄Binary Quantization(Non-Hashing)
 ***2015 NIPS*** BinaryConnect: Training Deep Neural Networks with binary weights during propagations[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2015/file/3e15cc11f979ed25912dff5b0669f2cd-Paper.pdf)  
 ***2016 ECCV*** XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks[[Paper]](https://arxiv.org/pdf/1603.05279)[[code]](https://github.com/allenai/XNOR-Net)  
@@ -778,6 +797,18 @@ Retrieval(`HCCH`)[[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnum
 ***2023 ICCV*** MST-compression: Compressing and Accelerating Binary Neural Networks with Minimum Spanning Tree[[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Vo_MST-compression_Compressing_and_Accelerating_Binary_Neural_Networks_with_Minimum_Spanning_ICCV_2023_paper.pdf)  
 ***2024 CVPR*** A&BBNN:Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.pdf)  
 ***2024 CVPR***  BiPer: Binary Neural Networks using a Periodic Function[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Vargas_BiPer_Binary_Neural_Networks_using_a_Periodic_Function_CVPR_2024_paper.pdf)[[Code]](https://github.com/edmav4/BiPer)  
+***2025 CVPR*** BHViT: Binarized Hybrid Vision Transformer(`BHViT`)[[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Gao_BHViT_Binarized_Hybrid_Vision_Transformer_CVPR_2025_paper.html)[[code]](https://github.com/IMRL/BHViT)  
+***2025 CVPR*** Binarized Neural Network for Multi-spectral Image Fusion(`BNNPan`)[[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Hou_Binarized_Neural_Network_for_Multi-spectral_Image_Fusion_CVPR_2025_paper.html)  
+***2025 CVPR*** Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing(`BMTNet`)[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_Binarized_Mamba-Transformer_for_Lightweight_Quad_Bayer_HybridEVS_Demosaicing_CVPR_2025_paper.pdf)[[code]](https://github.com/Clausy9/BMTNet)  
+***2025 ICCV*** Information-Bottleneck Driven Binary Neural Network for Change Detection(`BiCD`)[[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Yin_Information-Bottleneck_Driven_Binary_Neural_Network_for_Change_Detection_ICCV_2025_paper.html)  
+***2025 AAAI*** Fast and Slow Gradient Approximation for Binary Neural Network Optimization(`FSG`)[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34896)[[code]](https://github.com/two-tiger/FSG)  
+***2025 NeurIPS*** Binary Quadratic Quantization: Beyond First-Order Quantization for Real-Valued Matrix Compression(`BQQ`)[[paper]](https://proceedings.neurips.cc/paper_files/paper/2025/hash/e7cf82c8f34920d20299a84b16b720e8-Abstract-Conference.html)  
+***2025 TNNLS*** Hyperbolic Binary Neural Network(`HBNN`)[[paper]](https://doi.org/10.1109/TNNLS.2024.3485115)  
+***2025 Image and Vision Computing*** Distribution-modulated binary neural network for image classification(`DM-BNN`)[[paper]](https://www.sciencedirect.com/science/article/pii/S0262885625002343)[[code]](https://github.com/NianKong/DM-BNN)  
+***2026 ICLR*** BEP: A Binary Error Propagation Algorithm for Binary Neural Networks Training(`BEP`)[[paper]](https://openreview.net/forum?id=jxtCMoZIu8)  
+***2026 AAAI*** BD-Net: Has Depth-Wise Convolution Ever Been Applied in Binary Neural Networks?(`BD-Net`)[[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/39416/43377)[[code]](https://github.com/kacel33/BD-Net)  
+***2026 Pattern Recognition*** WCFE-Net: Weight constraint and flick enforcement for improving performance of binary neural networks(`WCFE-Net`)[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007459)[[code]](https://github.com/Wang-Shuhuai/WCFE-Net)  
+***2026 TNNLS*** ABNN: Adaptive-Gating Binary Neural Network With Dynamic Activation Quantization for Industrial Health Status Prediction(`ABNN`)[[paper]](https://doi.org/10.1109/TNNLS.2025.3577620)  
 
 ## 😍LLM Fine-tuning(Non-Hashing)
 ### 😄Prompt Learning   
